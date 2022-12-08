@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+body{ background:url(https://web.archive.org/web/20091027034121/http://www.geocities.com/jessdchick/BACKGROUNDanimatedchangingcolorstars.gif);
+}
+
+nav{
+  position: fixed;
+  right: 1rem;
+}
+
+header{
+  color: #FAF9F6;
+}
+
+main{
+  color: #FAF9F6;
+}
+
+img{
+  max-width: 100%;
+}
+
+body{
+  margin: 0 ;
+  padding: 1em;
+}
+
+footer{
+  color: white;
+  text-align: center;
+}
+
+.pic{
+  max-width: 25%;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+
+.Home {
+    font-size: 2rem;
+}
+

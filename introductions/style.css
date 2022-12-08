@@ -1,0 +1,36 @@
+body {
+    background-image: url(https://web.archive.org/web/20091020135533/http://geocities.com/Hollywood/Location/8311/Backgrounds/drunk.gif);
+    
+  }
+  
+  h1{
+    font-family: Arial;
+    color: blue;
+    background-color: White;
+    border: 20px groove white;
+  }
+  p {
+    font-size: 25px;
+    font-family: cursive;
+    color: Green;
+    background-color: white;
+    border: 10px inset;
+  }
+  
+  .special{
+    color: purple;
+    border: 10px outset;
+    background-color: white;
+  }
+  
+  img {
+    Width: 400px;
+  }
+  
+  div {
+    font-family: arial;
+    font-size: 2rem;
+    /* border: solid red;   */
+  }
+
+  
